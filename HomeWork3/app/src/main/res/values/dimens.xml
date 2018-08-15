@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="width_edit_text">200dp</dimen>
+    <dimen name="edit_horizontal">50dp</dimen>
+    <dimen name="edit_size">20sp</dimen>
+    <dimen name="progress_margin">90dp</dimen>
+    <dimen name="text_size_conter">20sp</dimen>
+    <dimen name="counter_margin">110dp</dimen>
+    <dimen name="button_margin">150dp</dimen>
+    <dimen name="size_text">20sp</dimen>
+    <dimen name="margin_text">10dp</dimen>
+    <dimen name="progress_margi">35dp</dimen>
+    <dimen name="text_start">10dp</dimen>
+</resources>

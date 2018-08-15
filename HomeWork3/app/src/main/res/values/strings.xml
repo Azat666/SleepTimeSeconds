@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeWork3</string>
+    <string name="text">0</string>
+    <string name="run_async_task">RUN ASYNC TASK</string>
+    <string name="sleep">Sleep Time in Seconds</string>
+    <string name="sleep_in_time_seconds">Sleep in time seconds</string>
+    <string name="sleep_time_in_seconds">Sleep time in Seconds</string>
+    <string name="progress">Progress</string>
+</resources>
